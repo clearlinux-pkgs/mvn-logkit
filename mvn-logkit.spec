@@ -4,7 +4,7 @@
 #
 Name     : mvn-logkit
 Version  : 1.0.1
-Release  : 1
+Release  : 2
 URL      : https://github.com/logkit/logkit/archive/1.0.1.tar.gz
 Source0  : https://github.com/logkit/logkit/archive/1.0.1.tar.gz
 Source1  : https://repo1.maven.org/maven2/logkit/logkit/1.0.1/logkit-1.0.1.jar
